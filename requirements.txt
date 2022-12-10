@@ -1,0 +1,11 @@
+pandas
+numpy
+jupyter
+jupyterlab
+jupyterlab-git
+jupyterlab_widgets
+torch
+torchvision
+torchaudio
+pytorch-ignite
+pytorch-lightning
