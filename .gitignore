@@ -129,4 +129,7 @@ dmypy.json
 .pyre/
 
 # my additions
-/data/
+.idea
+data
+lightning_logs
+saved_models
