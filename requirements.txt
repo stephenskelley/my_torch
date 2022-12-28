@@ -1,13 +1,17 @@
+# basic
 pandas
 numpy
 matplotlib
 seaborn
+scikit_learn
 
+# jupyter
 jupyter
 jupyterlab
 jupyterlab-git
 jupyterlab_widgets
 
+# pytorch
 torch
 torchvision
 torchaudio
@@ -15,7 +19,10 @@ pytorch-ignite
 pytorch-lightning
 lightning-bolts
 
+# tensorboard
+tensorflow-macos
 tensorboard
 
+# hugging face
 transformers
 datasets
