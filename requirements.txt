@@ -19,10 +19,16 @@ pytorch-ignite
 pytorch-lightning
 lightning-bolts
 
-# tensorboard
+# tensorboard and visualization
 tensorflow-macos
 tensorboard
+import matplotlib
+import eiffel2
 
 # hugging face
 transformers
 datasets
+librosa
+evaluate
+
+
