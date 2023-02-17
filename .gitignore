@@ -133,3 +133,17 @@ dmypy.json
 data
 lightning_logs
 saved_models
+/hugging_face/wandb/
+/simpletransformers/wandb/
+/simpletransformers/cache_dir/
+/simpletransformers/outputs/
+/simpletransformers/outputs_bert/
+/simpletransformers/outputs_roberta/
+/simpletransformers/runs/
+/hugging_face/test_trainer/
+/hugging_face/my_awesome_food_model/
+/hugging_face/my_awesome_food_model/
+/hugging_face/bert_fine_tuned/
+/hugging_face/bert_lightning/
+
+/wandb/
