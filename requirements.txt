@@ -22,13 +22,18 @@ lightning-bolts
 # tensorboard and visualization
 tensorflow-macos
 tensorboard
-import matplotlib
-import eiffel2
+matplotlib
+eiffel2
+seaborn
 
 # hugging face
 transformers
 datasets
 librosa
 evaluate
+
+simpletransformers
+
+wandb
 
 
