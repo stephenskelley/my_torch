@@ -20,20 +20,37 @@ pytorch-lightning
 lightning-bolts
 
 # tensorboard and visualization
-tensorflow-macos
+# tensorflow-macos
 tensorboard
 matplotlib
 eiffel2
 seaborn
 
 # hugging face
+# git+https://github.com/huggingface/transformers@main#egg=transformers
 transformers
 datasets
 librosa
 evaluate
+timm
 
 simpletransformers
-
 wandb
+
+# git+https://github.com/hwchase17/langchain@master#egg=langchain
+# git+https://github.com/jerryjliu/llama_index@main#egg=llama_index
+langchain
+llama_index
+llama_hub
+llama-cpp-python
+# langflow
+# langchain-visualizer
+qdrant-client
+
+loralib
+sentencepiece
+bitsandbytes
+accelerate
+
 
 

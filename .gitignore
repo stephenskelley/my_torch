@@ -147,3 +147,11 @@ saved_models
 /hugging_face/bert_lightning/
 
 /wandb/
+/local_secrets.py
+.DS_Store
+stash_index/
+Llama/stash_ds_techrithm_index.json
+offload/
+assets/
+*.pkl
+Llama/state_of_the_union.txt
